@@ -1,0 +1,14 @@
+<html>
+<body>
+<!-- BEGINS: AUTO-GENERATED PassHosting unlimited SHOUTcast Hosting PassHosting.net plans start at $4.91 CODE visit http://www.passhosting.net -->
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="180" height="60" bgcolor="#FFFFFF">
+<param name="movie" value="http://www.passhosting.net/ffmp3-config.swf" />
+<param name="flashvars" value="url=193.10.31.114:8000/;&lang=en&codec=mp3&volume=100&introurl=&autoplay=true&traking=true&jsevents=false&buffering=5&skin=http://www.passhosting.net/skins/mcclean/ffmp3-mcclean.xml&title=Coolio" />
+<param name="wmode" value="window" />
+<param name="allowscriptaccess" value="always" />
+<param name="scale" value="noscale" />
+<embed src="http://www.passhosting.net/ffmp3-config.swf" flashvars="url=193.10.31.114/;&lang=en&codec=mp3&volume=100&introurl=&autoplay=true&traking=true&jsevents=false&buffering=5&skin=http://www.passhosting.net/skins/mcclean/ffmp3-mcclean.xml&title=Coolio" width="180" scale="noscale" height="60" wmode="window" bgcolor="#FFFFFF" allowscriptaccess="always" type="application/x-shockwave-flash" />
+</object>
+<!-- ENDS: AUTO-GENERATED PassHosting.net unlimited SHOUTcast Hosting PassHosting.net plans start at $4.91 CODE visit http://www.passhosting.net-->
+</body>
+</html>
